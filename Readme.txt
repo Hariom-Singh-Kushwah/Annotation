@@ -1,4 +1,4 @@
-#!/home/ssapl/.virtualenvs/cds2/bin/python3
+#!/home/ssapl/.virtualenvs/annotation/bin/python3
 
 To automatically annotate a video with one object for PASCAL and YOLO model training.
 1. Run the program -> The video starts playing.
